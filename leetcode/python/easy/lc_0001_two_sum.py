@@ -1,5 +1,5 @@
-﻿"""
-LeetCode: 1 - two_sum
+﻿from lc_0001_two_sum import solve
+"""
 Difficulty: easy
 Pattern: <Hash Map>
 
